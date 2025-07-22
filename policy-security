@@ -1,61 +1,173 @@
-# 📜 Politique de Confidentialité de Neetali  
+# 📜 Politique de Confidentialité de Neetali
+📅 **Dernière mise à jour : 22 juillet 2025**
 
-📅 **Dernière mise à jour : 18 mqrs 2025**  
+Bienvenue sur **Neetali** ! Nous accordons une grande importance à la protection de vos données personnelles et au respect de votre vie privée. Cette politique décrit comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez notre application mobile d'histoires audio pour enfants.
 
-Bienvenue sur **Neetali** ! Nous accordons une grande importance à la protection de vos données personnelles. Cette politique décrit comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez notre application mobile.  
+## 🔍 1. Données collectées
 
-## 🔍 1. Informations collectées  
+### 📝 Informations fournies volontairement par l'utilisateur
+**Pour l'accès gratuit :**
+- Pour accéder à l'ensemble du contenu (histoires complètes, favoris, historique, etc.), une inscription avec e-mail et mot de passe est nécessaire.
 
-### 📝 Informations fournies par l’utilisateur  
-- Nom, prénom, e-mail (si inscription).  
-- Informations de paiement (via des prestataires sécurisés).  
-- Préférences linguistiques et choix de contenu.  
+**Pour l'inscription optionnelle :**
+- Adresse e-mail (obligatoire pour créer un compte)
+- Mot de passe (obligatoire)
+- Nom/prénom (optionnels)
+- Préférences linguistiques et de contenu (paramétrables dans l’app)
+- Numéro de téléphone : présent dans le formulaire mais non utilisé – aucune collecte n’est effectuée
 
-### 📊 Informations collectées automatiquement  
-- Données de navigation et d’utilisation (pages consultées, temps passé, interactions).  
-- Identifiants de l’appareil (modèle, OS, version de l’application).  
-- Adresse IP et localisation approximative (si autorisé).  
 
-### 🍪 Cookies et technologies similaires  
-Nous utilisons des cookies et outils analytiques pour améliorer votre expérience.  
+### 📊 Données techniques collectées automatiquement
+- Historique d'utilisation (histoires écoutées, favoris, temps d'écoute)
+- Données techniques (version de l'application, langue pour l'internationalisation de l'appli)
+- Données de performance (temps de chargement, erreurs techniques)
 
-## 🎯 2. Utilisation des données  
-Vos données sont utilisées pour :  
-✅ Fournir et personnaliser les services de **Neetali**.  
-✅ Assurer la sécurité et la maintenance technique.  
-✅ Analyser l’usage et améliorer l’expérience utilisateur.  
-✅ Envoyer des notifications et des offres (avec consentement).  
+### 🍪 Services d'analyse tiers
+Nous utilisons des services d'analyse pour améliorer l'application :
+- **Données collectées :** Données d'usage anonymisées, temps d'utilisation, contenus préférés, données de performance
+- **Finalité :** Amélioration de l'expérience utilisateur et de la performance de l'application
+- **Partage :** Aucune donnée personnellement identifiable n'est partagée avec ces services
+- **Services utilisés :** Google Analytics, Firebase Analytics **
 
-## 🔄 3. Partage des données  
-Nous **ne vendons pas** vos données. Cependant, nous pouvons les partager avec :  
-- **Prestataires de services** (hébergement, paiement, analytics).  
-- **Autorités légales**, si requis.  
-- **Partenaires**, en cas de fusion ou acquisition (avec notification préalable).  
+## 🎯 2. Utilisation des données
 
-## 🔐 4. Sécurité des données  
-Nous appliquons des mesures de protection avancées pour empêcher tout accès non autorisé à vos données.  
+Vos données sont utilisées exclusivement pour :
+✅ Fournir et personnaliser les services de **Neetali**
+✅ Assurer la sécurité et la maintenance technique de l'application
+✅ Analyser l'usage pour améliorer l'expérience utilisateur
+✅ Sauvegarder vos préférences et favoris (avec compte)
+✅ Envoyer des notifications importantes sur le service (avec votre consentement)
 
-## ⚖️ 5. Vos droits  
-Vous pouvez :  
-- 📩 **Accéder** et **modifier** vos données.  
-- 🗑 **Supprimer votre compte** et vos informations.  
-- ❌ **Retirer votre consentement** (ex. notifications marketing).  
+**Nous n'utilisons PAS vos données pour :**
+❌ De la publicité comportementale
+❌ Du marketing non sollicité
+❌ La vente à des tiers
 
-📧 **Contactez-nous** à ejokkotech@gmail.com pour toute demande.  
+## 🔄 3. Partage des données
 
-## 🕒 6. Conservation des données  
-Vos données sont stockées aussi longtemps que nécessaire pour fournir nos services, puis supprimées ou anonymisées.  
+Nous **ne vendons jamais** vos données personnelles. Le partage est limité aux cas suivants :
 
-## 🔗 7. Services tiers  
-Notre application peut contenir des liens vers des services tiers (ex. paiement). Nous ne sommes pas responsables de leurs politiques de confidentialité.  
+### Prestataires de services essentiels
+- **Hébergement cloud sécurisé** pour le stockage des données
+- **Services d'analyse** (données anonymisées uniquement)
+- **Prestataires techniques** pour la maintenance de l'application
 
-## ✏️ 8. Modifications de cette politique  
-Nous pouvons mettre à jour cette politique à tout moment. Vous serez notifié via l’application ou par e-mail.  
+### Obligations légales
+- Autorités compétentes, uniquement si requis par la loi
 
-## 📬 9. Contact  
-Pour toute question, contactez-nous à :  
-📧 **ejokkotech@gmail.com**  
+### Stockage des données
+- **Localisation :** Serveurs sécurisés dans l'Union Européenne
+- **Accès :** Strictement limité aux équipes techniques autorisées
+- **Chiffrement :** Toutes les données sensibles sont chiffrées
+
+## 🔐 4. Sécurité des données
+
+Nous appliquons des mesures de protection avancées :
+- Chiffrement des données sensibles en transit et au repos
+- Accès limité et contrôlé aux données personnelles
+- Serveurs sécurisés avec sauvegarde régulière
+- Surveillance continue des accès et des tentatives d'intrusion
+- Protocoles de sécurité régulièrement mis à jour
+
+## 👶 5. Protection des enfants
+
+Notre application est conçue pour les enfants et respecte leur protection :
+- **Aucune collecte** de données personnelles d'enfants sans consentement parental explicite
+- **Pas de publicité** comportementale ciblée
+- **Contenu sûr** et adapté à l'âge
+- **Pas de chat** ni de fonctionnalités de communication
+- Conformité avec les réglementations sur la protection des mineurs (COPPA, RGPD)
+
+## ⚖️6. Vos droits
+
+Conformément au RGPD, vous disposez des droits suivants :
+
+### 📩 Droit d'accès et de modification
+- Consulter toutes vos données personnelles
+- Modifier vos informations de profil
+
+### 🗑 Droit de suppression
+- Supprimer votre compte et toutes vos données associées
+- Demander la suppression de données spécifiques
+
+### ❌ Droit de retrait du consentement
+- Retirer votre consentement pour les notifications
+
+### 📧 Exercer vos droits
+Contactez-nous à **ejokkotech@gmail.com** pour toute demande. Nous répondons dans les 30 jours maximum.
+
+## 🕒 7. Conservation des données
+
+### Durée de conservation
+- **Comptes actifs :** Tant que votre compte existe
+- **Comptes inactifs :** Suppression automatique après 3 ans d'inactivité
+- **Données techniques :** Anonymisées après 2 ans
+- **Données de support client :** 2 ans après la résolution
+
+### Suppression automatique
+Les données sont automatiquement supprimées ou anonymisées à l'expiration des délais mentionnés.
+
+## 💳 8. Paiements et abonnements
+
+### Modèle économique
+- **Contenu gratuit :** Accessible sans paiement
+- **Contenu premium :** Accessible via abonnement payant
+- **Pas d'achats intégrés :** Les abonnements se font via les plateformes (App Store/Google Play)
+
+### Traitement des paiements
+- **Partenaires certifiés :** InTouch
+- **Aucune donnée bancaire** stockée sur nos serveurs
+- **Transactions sécurisées :** Gérées entièrement par les plateformes
+- Nous recevons uniquement la confirmation d'abonnement, pas les détails de paiement
+
+## 🔗 9. Services tiers et liens externes
+
+### Liens vers des services tiers
+Notre application ne contient pas de liens vers des sites externes. Nous ne sommes pas responsables de leurs politiques de confidentialité.
+
+### Intégrations tierces
+- **Services d'analyse :** Données anonymisées uniquement
+- **Hébergement cloud :** Prestataires certifiés RGPD
+
+## 🌍 10. Transferts internationaux
+
+Si des données sont transférées hors de l'Union Européenne, nous garantissons :
+- Mécanismes de protection équivalents au RGPD
+- Clauses contractuelles types approuvées par la Commission Européenne
+- Notification préalable en cas de changement de localisation
+
+## ✏️ 11. Modifications de cette politique
+
+### Notifications des changements
+- Notification dans l'application pour les modifications importantes
+- E-mail aux utilisateurs enregistrés (si applicable)
+- Publication de la nouvelle version avec date de mise à jour
+
+### Votre consentement
+L'utilisation continue de l'application après modification vaut acceptation des nouvelles conditions.
+
+## 📬 12. Contact et réclamations
+
+### Contact direct
+📧 **ejokkotech@gmail.com**
+📱 Support technique disponible du lundi au vendredi, 9h-17h
+
+### Autorité de contrôle
+En cas de litige non résolu, vous pouvez saisir la CNIL (Commission Nationale de l'Informatique et des Libertés) ou votre autorité locale de protection des données.
 
 ---
 
-🌍 **Neetali** s’engage à protéger vos données et à respecter votre vie privée. Merci de nous faire confiance ! 🚀
+## 📋 Résumé des bonnes pratiques
+
+✅ **Accès libre** au contenu gratuit
+✅ **Inscription obligatoire** pour les fonctionnalités avancées
+✅ **Protection renforcée** des données d'enfants
+✅ **Transparence totale** sur l'utilisation des données
+✅ **Contrôle utilisateur** sur ses données personnelles
+✅ **Sécurité maximale** des informations stockées
+
+---
+
+🌍 **Neetali** s'engage à protéger vos données et celles de vos enfants avec les plus hauts standards de sécurité. Merci de nous faire confiance pour accompagner l'éveil de vos enfants ! 🚀
+
+**Version :** 0.0.1 | **Date :** 22 juillet 2025
